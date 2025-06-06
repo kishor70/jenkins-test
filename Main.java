@@ -7,6 +7,7 @@ class Main{
         System.out.println("Adding new line");
         System.out.println("Added one more line");
         System.out.println("Checking build");
+        System.out.println("Adding one more line");
     }
     
 }
