@@ -8,6 +8,8 @@ class Main{
         System.out.println("Added one more line");
         System.out.println("Checking build");
         System.out.println("Adding one more line");
+        Student obj = new Student();
+        obj.sayHello();
     }
     
 }
