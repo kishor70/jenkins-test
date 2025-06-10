@@ -2,7 +2,7 @@
 
 public class Student {
     
-    Student(){
+    public Student(){
         System.out.println("Creating student object");
     }
 
